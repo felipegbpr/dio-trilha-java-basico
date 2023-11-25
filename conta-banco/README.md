@@ -1,3 +1,7 @@
+# Conta Banco
+
+Projeto de exemplificação do uso da linguagem Java e suas funcionalidades para criação de um programa que captura dados abstraídos de uma classe de modelo bancário.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
